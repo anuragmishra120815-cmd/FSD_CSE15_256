@@ -10,6 +10,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^5.2.1"
-  }
+    "express": "^5.2.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragmishra120815-cmd/FSD_CSE15_256.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/anuragmishra120815-cmd/FSD_CSE15_256/issues"
+  },
+  "homepage": "https://github.com/anuragmishra120815-cmd/FSD_CSE15_256#readme"
 }
